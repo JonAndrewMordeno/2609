@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Tomorrow:300,400,500,600&display=swap');
+
+
+legend{
+    font-weight: 500;
+    font-family: 'Tomorrow', sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+  
+form {                                         
+    margin: 0 auto; 
+    width: 600px; 
+}
+
+button
+{
+    font-weight: 400;
+    font-family: 'Tomorrow', sans-serif;
+    font-size: 12px;
+}
+
+button:hover{
+    border-color: black;
+    border-width: 1px;
+}
